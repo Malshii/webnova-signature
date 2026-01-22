@@ -1,0 +1,5 @@
+# Direct access to the PNG file
+/signature.png  /signature.png  200
+
+# Optional: Make the root redirect to the PNG
+# /  /signature.png  301
